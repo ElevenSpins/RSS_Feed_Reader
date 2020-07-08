@@ -17,5 +17,18 @@ namespace RSS_Feed_Reader
             InitializeComponent();
         }
 
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+                    }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
