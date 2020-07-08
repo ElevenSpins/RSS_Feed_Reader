@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i0ZsmQu3mH8Vlak2A4+35NlzFohWz8lcsyqrkCBITkhX1dzwr9tjm1RX2tW02+uy7v8f+WpA6CNHkq6RLaWMZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mutschlerm\\source\\repos\\RSS_Feed_Reader\\RSS_Feed_Reader\\RSS_Feed_Reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mutschlerm\\.nuget\\packages\\codehollow.feedreader\\1.2.1\\codehollow.feedreader.1.2.1.nupkg.sha512",
+    "C:\\Users\\mutschlerm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
