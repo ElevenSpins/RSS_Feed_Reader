@@ -25,6 +25,7 @@ namespace RSS_Feed_Reader
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+            //für jedes item wird die passende Discription abgerufen und dargestellt
             foreach (var item in fc.filledFeed.Items)
             {
                 if (item.Title == titlesComboBox.SelectedItem.ToString())
@@ -40,11 +41,13 @@ namespace RSS_Feed_Reader
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //beim erneten laden alte Items "löschen"
             titlesComboBox.Items.Clear();
             
+            //Methoden aufruf mit URL
             fc.fillFeed(URLtextBox.Text);
 
-
+            //befüllen der titlesComboBox
             foreach (var item in fc.filledFeed.Items)
             {
                 titlesComboBox.Items.Add(item.Title);
@@ -56,6 +59,7 @@ namespace RSS_Feed_Reader
 
         private void SaveButton_Click(object sender, EventArgs e)
         {
+            //fügt die URL in die List Box hinzu
             SavedListBox.Items.Add(URLtextBox.Text);
         }
 
