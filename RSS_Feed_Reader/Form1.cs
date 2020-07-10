@@ -40,7 +40,7 @@ namespace RSS_Feed_Reader
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            titlesComboBox.Items.Clear();
             
             fc.fillFeed(URLtextBox.Text);
 
@@ -57,6 +57,11 @@ namespace RSS_Feed_Reader
         private void SaveButton_Click(object sender, EventArgs e)
         {
             SavedListBox.Items.Add(URLtextBox.Text);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

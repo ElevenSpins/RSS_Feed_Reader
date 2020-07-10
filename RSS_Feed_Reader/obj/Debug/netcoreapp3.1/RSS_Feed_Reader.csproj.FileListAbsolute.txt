@@ -1,5 +1,4 @@
 C:\Users\mutschlerm\source\repos\RSS_Feed_Reader\RSS_Feed_Reader\bin\Debug\netcoreapp3.1\RSS_Feed_Reader.exe
-C:\Users\mutschlerm\source\repos\RSS_Feed_Reader\RSS_Feed_Reader\obj\Debug\netcoreapp3.1\RSS_Feed_Reader.csprojAssemblyReference.cache
 C:\Users\mutschlerm\source\repos\RSS_Feed_Reader\RSS_Feed_Reader\obj\Debug\netcoreapp3.1\RSS_Feed_Reader.AssemblyInfoInputs.cache
 C:\Users\mutschlerm\source\repos\RSS_Feed_Reader\RSS_Feed_Reader\obj\Debug\netcoreapp3.1\RSS_Feed_Reader.AssemblyInfo.cs
 C:\Users\mutschlerm\source\repos\RSS_Feed_Reader\RSS_Feed_Reader\bin\Debug\netcoreapp3.1\RSS_Feed_Reader.deps.json
