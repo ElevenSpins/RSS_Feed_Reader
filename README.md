@@ -55,9 +55,9 @@ Dokumentation dazu unter: https://github.com/codehollow/FeedReader
 
 ## RSS-Feed URLs
 
-www.heise.de/rss/heise-top-atom.xml.
-www.heise.de/rss/heise-atom.xml.
-https://www.heise.de/rss/heiseplus-atom.xml.
+www.heise.de/rss/heise-top-atom.xml  
+www.heise.de/rss/heise-atom.xml  
+https://www.heise.de/rss/heiseplus-atom.xml  
 etc...
 
 ## Zweck
