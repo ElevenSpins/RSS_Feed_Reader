@@ -1,8 +1,7 @@
 "# RSS_Feed_Reader" 
 
-# RSS Feed Reader by ElevenSpins 
-![RSS-Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/256px-Feed-icon.svg.png =20x20 "RSS-Logo")
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/256px-Feed-icon.svg.png" width="20">
+# RSS Feed Reader by ElevenSpins <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/256px-Feed-icon.svg.png" width="30">
+
 
 ## Funktion
 
@@ -56,9 +55,9 @@ Dokumentation dazu unter: https://github.com/codehollow/FeedReader
 
 ## RSS-Feed URLs
 
-www.heise.de/rss/heise-top-atom.xml
-www.heise.de/rss/heise-atom.xml
-https://www.heise.de/rss/heiseplus-atom.xml
+www.heise.de/rss/heise-top-atom.xml.
+www.heise.de/rss/heise-atom.xml.
+https://www.heise.de/rss/heiseplus-atom.xml.
 etc...
 
 ## Zweck
