@@ -2,6 +2,7 @@
 
 # RSS Feed Reader by ElevenSpins 
 ![RSS-Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/256px-Feed-icon.svg.png =20x20 "RSS-Logo")
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/256px-Feed-icon.svg.png" width="20">
 
 ## Funktion
 
