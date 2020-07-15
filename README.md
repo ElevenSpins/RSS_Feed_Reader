@@ -1,11 +1,14 @@
 "# RSS_Feed_Reader" 
 
-# RSS Feed Reader by ElevenSpins
+# RSS Feed Reader by ElevenSpins 
+![RSS-Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/256px-Feed-icon.svg.png "RSS-Logo")
 
 ## Funktion
 
 Das Projekt "RSS_Feed_Reader" ist ein Schulprojekt für die Robert-Bosch-Schule in Ulm.
 Die Aufgabe war es ein 10h Projekt umzusetzen.
+
+RSS = Rich Site Summary
 
 ## Bibliothek
 
@@ -14,7 +17,7 @@ Dokumentation dazu unter: https://github.com/codehollow/FeedReader
 
 ## Aufbau RSS Datei
 
-```c#
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 
 <rss version="2.0">
